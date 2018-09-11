@@ -12,4 +12,5 @@ pics
 ![](autotoilet.jpg)
 
 Additionally, as Norman notes, the immediate feedback given by the automatic toilet lets the user know without doubt that they don't need to flush. It already flushed itself once the user is done!
+Individuals using the toilet are looking for effeciency and cleaniness. In this way the automatic toilet acheives these goals. 
 
