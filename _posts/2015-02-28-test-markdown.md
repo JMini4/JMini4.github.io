@@ -4,7 +4,7 @@ title: Automatic Toilet
 subtitle: better or worse than the classic?
 ---
 
-#Advantages
+# Advantages
 user may flush without having to touch a potentially germ ridden surface. The design incorporates a signifier by actually not including the traditional signifier. Below we see the toilet we are all used to followed by the automatic toilet. The lack of the standard bar signifier tells the user they need not flush manually. 
 
 pics
