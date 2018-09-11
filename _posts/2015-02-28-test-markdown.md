@@ -9,6 +9,7 @@ user may flush without having to touch a potentially germ ridden surface. The de
 
 pics
 ![](tradtoilet.jpg)
+![](autotoilet.jpg)
 
 Additionally, as Norman notes, the immediate feedback given by the automatic toilet lets the user know without doubt that they don't need to flush. It already flushed itself once the user is done!
 
