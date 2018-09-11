@@ -5,6 +5,7 @@ subtitle: Fine for 1 person but 2?
 ---
 
 I recall my first time trying to pull one of these chairs out. I didn't understand the swiveling nature of them. Once you get past that the chairs seem very efficient, many chairs in a small space without the clutter and noise of traditional chairs. Below we have the set up of the chairs.
+<img src="chairs.jpg" alt="chairs" width="200"/>
 ![](../chairs.jpg =120x20)
 ![](../chairout.jpg =120x20)
 
