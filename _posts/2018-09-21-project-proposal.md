@@ -4,6 +4,7 @@ title: Project Proposal
 subtitle: Navigating the Museum
 ---
 ![The Museum of Interest](../WCMA.png)
+
 *the museum of interest. Image from art.williams.edu*
 
 ## A Problem
