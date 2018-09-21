@@ -21,7 +21,7 @@ subtitle: Navigating the Museum
   
   ### Broad Goals
   
-  ![the kind of navigation we want to avoid](../wayfind.jpg)
+  ![the kind of navigation we want to avoid](../wayfind.png)
   
   The device would not have a screen or any digital qualities to distract the user from the art and in gallery experiences. This proposal addresses ways of enhancing wayfinding in the museum and aims to quantify the intimate experience in the museum by tracking the time spent standing in the same place. 
   
