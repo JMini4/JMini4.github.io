@@ -5,7 +5,7 @@ subtitle: Navigating the Museum
 ---
 ![The Museum of Interest](../WCMA.png)
 
-*the museum of interest. Image from art.williams.edu*
+*The museum of interest. Image from art.williams.edu*
 
 ## A Problem
 
@@ -24,7 +24,7 @@ subtitle: Navigating the Museum
   ### Broad Goals
   
   ![the kind of navigation we want to avoid](../wayfind.png)
-  *one proposed way of wayfinding by Eyedog Indoor Navigation. Image from www.eyedog.mobi*
+  *One proposed way of wayfinding by Eyedog Indoor Navigation. Image from www.eyedog.mobi*
   
   The device would not have a screen or any digital qualities to distract the user from the art and in gallery experiences. This proposal addresses ways of enhancing wayfinding in the museum and aims to quantify the intimate experience in the museum by tracking the time spent standing in the same place. 
   
