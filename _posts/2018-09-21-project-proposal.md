@@ -21,7 +21,7 @@ subtitle: Navigating the Museum
   
   
   
-  ### Broad Goals
+  Broad Goals:
   
   ![the kind of navigation we want to avoid](../wayfind.png)
   *One proposed way of wayfinding by Eyedog Indoor Navigation. Image from www.eyedog.mobi*
