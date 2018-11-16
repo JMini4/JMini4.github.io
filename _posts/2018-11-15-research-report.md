@@ -10,4 +10,5 @@ After reading this paper I am realizing that although one of our main goals was 
 
 Tactile Wayfinder: A Non-Visual Support System for
 Wayfinding by Wilko Heuten, Niels Henze, Susanne Boll, and Martin Pielot
-(http://delivery.acm.org/10.1145/1470000/1463179/p172-heuten.pdf?ip=137.165.174.60&id=1463179&acc=ACTIVE%20SERVICE&key=73B3886B1AEFC4BB%2E2C072D704A936475%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1542302624_d763254144c9dd078bc19ba47e016bf4#URLTOKEN#)
+Link number five on the following website
+(https://dl.acm.org/results.cfm?query=wayfinding&filtered=&within=sponsors%2EsponsorID%3DSP923&dte=2005&bfr=&srt=_score)
