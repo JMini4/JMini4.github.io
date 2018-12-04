@@ -5,7 +5,7 @@ subtitle: what I learned in Human Computer Interaction is...
 ---
  
  
- ## Overview
+ ### Overview:
  
 Coming into Human Computer Interaction, or HCI, I had no idea what to expect. Despite being a computer science major in my senior year, I had no experience with design or research. As the semester went on I was pleasantly surprised to find a crossover between one of my favorite subjects, sociology, and computer science. I have enjoyed the ways the HCI has taken our learning away from implementation and pushed me to consider the reasons why I should or should not build something. The user design and research processes taught me a the importance of repetition and other crucial concepts that I will go into. However, one of the most interesting topics we discussed this semester was ethics. One of my favorite things that Iris said at the conclusion of this section was a quote from Jurassic Park: “Your scientists were so preoccupied with whether or not they could, they didn’t stop to think if they should”. These are glimpses into the many things I learned throughout this semester that I am excited to share in more detail in this post.
 
