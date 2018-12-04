@@ -2,6 +2,7 @@
 layout: post
 title: My Design Manifesto 
 subtitle: what I learned in Human Computer Interaction is...
+subtitle: [my final project](https://krtejeda.github.io/PersonalCuraTour/)
 ---
  
 ## Overview:
@@ -40,17 +41,9 @@ Something I was unsure about from the beginning was that the project at the end 
 
 ### Creativity where it counts
 
-When it came to designing the features of our app, we had to recognize that there were some aspects that we wanted to approach and an entirely new way. These were our tasks. Then there were other things that in and of themselves were tasks, but had already been optimized and therefore we didn't need to spend our energy on them. For example, in our design we chose to use the font that is used on the Apple watch because upon reading their design documentation, it was clear that Apple had researched which font was the most visible on the small screen. Thus our group was able to spend more time on the completion of our main tasks such as the navigation intersected with the option of additional information. Because of the iterative nature of the design we got to try a couple different screen layouts for the navigation and the audio option buttons. After input from users we settled on this really sleek design that incorporates a lot of brainstorming despite having a simplistic feel. The basic idea here is that as a designer I should not be reinventing the wheel. This also connects back to ideas from our very first readinging assignment about Norman doors. Designers often get caught up in trying to redesign something that is already functioning efficiently and is easily recognizable by users. When designers make this mistake, their designs are hard to udnerstand and use because users are so accustomed to the previous version
+When it came to designing the features of our app, we had to recognize that there were some aspects that we wanted to approach and an entirely new way. These were our tasks. Then there were other things that in and of themselves were tasks, but had already been optimized and therefore we didn't need to spend our energy on them. For example, in our design we chose to use the font that is used on the Apple watch because upon reading their design documentation, it was clear that Apple had researched which font was the most visible on the small screen. Thus our group was able to spend more time on the completion of our main tasks such as the navigation intersected with the option of additional information. Because of the iterative nature of the design we got to try a couple different screen layouts for the navigation and the audio option buttons. After input from users we settled on this really sleek design that incorporates a lot of brainstorming despite having a simplistic feel. The basic idea here is that as a designer I should not be reinventing the wheel. This also connects back to ideas from our very first readinging assignment about Norman doors. Designers often get caught up in trying to redesign something that is already functioning efficiently and is easily recognizable by users. When designers make this mistake withut taking time to offer the correct affordances and signifiers then their designs are hard to understand and use. Innovative design is of course an important 
 
 ![](../nav.png)
 
-@book{Norman:2002:DET:2187809,
- author = {Norman, Donald A.},
- title = {The Design of Everyday Things},
- year = {2002},
- isbn = {9780465067107},
- publisher = {Basic Books, Inc.},
- address = {New York, NY, USA},
-} 
-[download]
-THINGS
+
+Donald A. Norman. 2002. The Design of Everyday Things. Basic Books, Inc., New York, NY, USA.
