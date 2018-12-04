@@ -16,7 +16,7 @@ One of the main things that I learned in the accessibility section of the course
 
 ![](../acessible.png)
 
- <https://theblog.adobe.com/design-with-accessibility-in-mind-the-pour-methodology/>
+ [Design With Accessibility in Mind: The POUR Methodology](https://theblog.adobe.com/design-with-accessibility-in-mind-the-pour-methodology/)
 
 ### Ethics is everywhere:
 
