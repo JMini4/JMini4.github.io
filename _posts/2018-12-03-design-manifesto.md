@@ -11,7 +11,8 @@ Coming into Human Computer Interaction, or HCI, I had no idea what to expect. De
 ### Improving accessibility benefits everyone:
 
 One of the main things that I learned in the accessibility section of the course was in the reading “Design With Accessibility in Mind: The POUR Methodology”. One of the most insightful points of this article was the “Curb-Cut-Effect” which is the idea that by improving accessibility for one group of people, you actually increase accessibility for everyone. In the case of a curb cut out, accessibility for handicapped individuals is clearly increased but as a byproduct runners, individuals with baby strollers, and elderly people are all benefitting from the same change. Late in the semester I received an invitation for a survey from a psychology class. The survey was asking questions about the handicap accessibility of the Williams campus and asked if I though improvements would benefit the campus or would only benefit those that have a physical handicap. Knowing what I know now I found this question funny because the research has already been done. Any accessibility improvement only strengthens a design, it does not detract from it. In our design project, I remember previously being hesitant for providing several options for inputting a tour title. At the time I felt that it was simpler to just have one way to input. However, after this section I realized that providing many options for input not only benefited people with differences of ability, but also supported a range of scenarios. Below are the screens that were updated from to create the accessibility version of this feature. 
-PICTURE
+
+![](../accessible.png)
 
  <https://theblog.adobe.com/design-with-accessibility-in-mind-the-pour-methodology/>
 
