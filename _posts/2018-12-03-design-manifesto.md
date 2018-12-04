@@ -20,7 +20,7 @@ One of the main things that I learned in the accessibility section of the course
 
 Engineers, designers, and managers are all to blame when a computer makes an unethical choice. In class when we were using the MIT quiz to determine if we built a self driving car, what kinds of decisions it would make, I was struck by the reality of that situation. It was all fun and games at first but when you realize that a car actually must make the decision of who to kill in a certain situation. Not every software engineer will be working on self driving cars and other potentially dangerous technology, however more technology than we think could have biases. In my sociology class, The Panopticon: Surveillance, Power, and Inequality” we have discussed the implications of technologies such as “PredPol” which is a predictive policing software. As many discussions have led to in that class, we continue to build technology that is meant to bring justice, however if we’ve done nothing to change the system then these technologies are built using the same biases that have led to a corrupt system. It scares me to consider that we might be so focused on the seduction of technology that we do not take the time to question if the technology is actually going to improve the current situation, or rather perpetuate discrimination. 
 
-https://www.baltimoresun.com/news/maryland/crime/bs-md-ci-sean-malinowski-20180123-story.html
+<https://www.baltimoresun.com/news/maryland/crime/bs-md-ci-sean-malinowski-20180123-story.html>
 
 ### The user is not like me:
 
