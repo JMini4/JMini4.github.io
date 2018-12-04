@@ -26,8 +26,8 @@ Engineers, designers, and managers are all to blame when a computer makes an une
 
 The user is not like me. Although this principle is succinct it was very hard to learn because the urge is always to make something that will help you. At each turn in the  design process, from the proposal to the video prototype I was constantly catching myself making suggestions because I thought that they would be features and improvements that I would like. My mistake was that the suggestions were not evidence based. That is what is at the crux of “the user is not like me”, evidence! Every change and improvement to our design was motivated by users, whether in a contextual inquiry or in a cognitive walkthrough. For example a common pitfall is using language that made sense to me as a developer, but is not the way that the user thinks about the situation. When engaged in a cognitive walkthrough with a participant, she was confused about what is meant in the screen below by “community experience”. She said that she didn’t understand how that was different from the other tour offered. We had used the words “community experience” over and over in our discussion of how to connect to the unique williams community. Clearly we did not communicate this effectively in our design in chose the solution shown below by allowing the user to choose between two possible sets of tours, one by curators and the other by community members.
 
-![](../olddmenu.png)
-![](../newmenu.png)
+![](../olddmenu.png =250x250)
+![](../newmenu.png =250x250)
 
 
 
