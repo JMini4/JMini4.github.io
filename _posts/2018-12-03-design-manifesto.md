@@ -35,3 +35,5 @@ The user is not like me. Although this principle is succinct it was very hard to
 ### Trust the process:
 
 Something I was unsure about from the beginning was that the project at the end would not be something that I felt I recognized as my own. I was unsure about being in a group with people who all had their own unique project proposals and how would could possibly come to agree on something that reflected ideas from each contributor. What I didn’t realize at the time was how much even our initial group project proposal would transform and grow. At each stage of the process, from the affinity diagram to the heuristic evaluation we were pushed to re-evaluate the design and respond to the needs of the users, rather than aiming to adhere to our proposal. We retained main ideas, but never let our personal desires hold us back from developing the design. I realized that the process was more about the dynamic learning and that as long as we got to the end having implemented the techniques we learned about, we would create a design that we could all be proud of. 
+
+![](../affinziez.png)
