@@ -4,7 +4,6 @@ title: My Design Manifesto
 subtitle: what I learned in Human Computer Interaction is...
 ---
 
-[my final project](https://krtejeda.github.io/PersonalCuraTour/)
 
 
 ## Overview:
